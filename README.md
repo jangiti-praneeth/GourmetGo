@@ -1,1 +1,2 @@
 # GourmetGo
+The key intent of GourmetGo is to make it simple for individuals to access a wide range of dishes from various restaurants and place orders for deliver or pickup. With GourmetGo, users can seamlessly create accounts and login to explore restaurants, view menus, and enjoy the convenience of home delivery or convenient pick-up options. It also allows users to keep track of their past orders and review delivered items.
